@@ -9,10 +9,10 @@ Certified IT Specialist with extensive experience in network engineering, system
 - 🎖️ Microsoft Certified: Azure Administrator (AZ-104).
 - 🚀 Currently learning skills **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
-- 🏠 Running a VMware Workstation home lab with GNS3 and EVE-NG using images: Firewalls, Cisco Routers, Switches, Windows and Linux.
+- 🏠 Running a VMware home lab using GNS3 and EVE-NG images: Firewalls, Cisco Routers, Switches, Windows and Linux.
 - ⚡ Fun fact: Music Producer, Graphics Designer and Label Owner.
 - 📍 Living in Johannesburg, South Africa.
-- 👨🏾‍🍼 Proud father of a **strong son**.
+- 👨🏾‍🍼 Proud father of a strong son.
 
 ## My Projects
 - [👨🏾‍💻 e-Portolio](https://github.com/skyzo-sa/ePortfolio/tree/main) - ePortolio
