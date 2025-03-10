@@ -4,7 +4,7 @@
 
 Certified IT Specialist with extensive experience in network engineering, system administration, and troubleshooting. I have a strong background in configuring and managing multi-vendor switches, routers, and firewalls. My expertise extends to Linux and Azure cloud administration, where I have successfully optimized systems to enhance performance, network security, and productivity.
 
-- 🎖️ **Certified IT Specialist** (CompTIA Network+, CompTIA Security+).
+- 💻 **Certified IT Specialist** (CompTIA Network+, Security+).
 - 🎖️ **Sophos Firewall Certified Engineer** (v19.5).
 - 🎖️ **Microsoft Certified: Azure Administrator** (AZ-104).
 - 🚀 Currently learning skills **Python (Network Automation), Linux, and DevOps**.
