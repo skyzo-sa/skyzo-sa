@@ -13,7 +13,7 @@ Certified IT Specialist with extensive experience in network engineering, system
 
 ## Objective
 
-Throughout my career, I have provided exceptional IT support, focusing on customer service, computer networking, Azure, and cybersecurity. My innovative approach has consistently contributed to generating profits for organizations. I am deeply passionate about continuous learning and problem-solving, and I have built a solid foundation in various technologies. I am enthusiastic about leveraging my skills to drive success and efficiency in IT environments. My journey in Information Systems has led me to develop a passion for cloud computing, cybersecurity and network security, and I am now eager to transition into these fields.
+I am deeply passionate about continuous learning and problem-solving, and I have built a solid foundation in various technologies. I am enthusiastic about leveraging my skills to drive success and efficiency in IT environments. My journey in IT has led me to develop a passion for cloud computing, cybersecurity and network security, and I am now eager to transition into these fields.
 
 
 ## Certifications
