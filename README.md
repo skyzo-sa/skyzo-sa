@@ -23,7 +23,7 @@ Throughout my career, I have provided exceptional IT support, focusing on custom
 
 ## 🤳 Connect with Me
 
-- [💼 LinkedIN](https://linkedin.com/in/tempanza)
+- [💼 Linkedin](https://linkedin.com/in/tempanza)
 - [🐦 Twitter](https://x.com/skyzo_sa)
 
 
