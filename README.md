@@ -15,6 +15,12 @@ Certified IT Specialist with extensive experience in network engineering, system
 
 I am deeply passionate about continuous learning and problem-solving, and I have built a solid foundation in various technologies. I am enthusiastic about leveraging my skills to drive success and efficiency in IT environments. My journey in IT has led me to develop a passion for cloud computing, cybersecurity and network security, and I am now eager to transition into these fields.
 
+## Projects
+
+I have setup multiple virtual home labs and applied my knowledge to develop hands-on skills all my projects are showcased as proof and evidence of my skills.
+
+- [👨🏾‍💻 e-Portolio](https://github.com/skyzo-sa/ePortfolio/tree/main) - ePortolio
+
 
 ## Certifications
 <div>
@@ -36,10 +42,6 @@ I am deeply passionate about continuous learning and problem-solving, and I have
     <img src="https://img.shields.io/badge/-Yeastar-FFD700?&style=for-the-badge&logo=Yeastar&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
 </div>
-
-
-## My Projects
-- [👨🏾‍💻 e-Portolio](https://github.com/skyzo-sa/ePortfolio/tree/main) - ePortolio
 
 
 ## 🤳 Connect with Me
