@@ -7,7 +7,7 @@ Certified IT Specialist with extensive experience in network engineering, system
 - 🎓 Certified IT Specialist (CompTIA Network+, Security+).
 - 🎖️ Sophos Firewall Certified Engineer (v19.5).
 - 🎖️ Microsoft Certified: Azure Administrator (AZ-104).
-- 🚀 Currently learning skills **Python (Network Automation), Linux, and DevOps.**
+- 🚀 Currently learning skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
 - 🏠 Running a VMware home lab using GNS3 and EVE-NG images: Firewalls, Cisco Routers, Switches, Windows and Linux.
 - ⚡ Fun fact: Music Producer, Graphics Designer and Label Owner.
