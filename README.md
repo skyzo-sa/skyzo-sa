@@ -4,7 +4,7 @@
 
 Certified IT Specialist with expertise in network engineering, system administration, and cybersecurity. Skilled in configuring LAMP stack Web Servers, Cisco IOS switches & routers, firewalls (FortiGate/Sophos/pfSense), SD-WAN and managing Linux & Azure environments. Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
 
-- 🚀 Currently learning skills in **Python (Network Automation), Linux, and DevOps.**
+- 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
 - 🏠 Running a VMware home lab using GNS3 and EVE-NG images: Firewalls, Cisco Routers, Switches, Windows and Linux.
 - ⚡ Fun fact: Music Producer, Graphics Designer and Label Owner.
