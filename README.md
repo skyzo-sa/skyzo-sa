@@ -12,7 +12,7 @@ Certified IT Specialist with expertise in network engineering, system administra
 
 ## Projects
 
-- I have set up a virtual home lab and applied my knowledge to develop hands-on technical skills. All my projects are showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
+- IAll my projects are showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
 
 
 
