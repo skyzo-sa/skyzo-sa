@@ -6,7 +6,7 @@ Certified IT Specialist with expertise in network engineering, system administra
 
 - 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
-- 🏠 Running a virtualized home lab emulating networking equipment in GNS3: Firewalls, Cisco Routers & Switches, Windows and Linux.
+- 🏠 Running a virtualized home lab emulating networking equipment in GNS3.
 - ⚡ Fun fact: Music Producer, Graphics Designer and Label Owner.
 - 👨🏾‍🍼 Proud father of a strong son.
 
