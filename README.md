@@ -2,7 +2,9 @@
 
 ## About Me
 
-Certified IT Specialist with expertise in network engineering, system administration, and cybersecurity. Skilled in configuring LAMP stack Web Servers, Cisco IOS switches & routers, firewalls (FortiGate/Sophos/pfSense), SD-WAN and managing Linux & Azure environments. Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
+An experienced and certified IT Specialist with expertise in network engineering, system administration, and
+cybersecurity. Proficient in network configuration and management, network security and managing Linux & Azure
+environments. Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
 
 - 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
