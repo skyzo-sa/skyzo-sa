@@ -35,6 +35,10 @@ environments. Passionate about problem-solving, optimizing systems, and advancin
 <a href="https://www.credly.com/badges/ab3e680d-0034-471c-b668-e022e79685dc/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+
+<a href="https://www.credly.com/badges/de2d3629-4c01-4ae7-807f-14489d69045c/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/-FortiGate-ED1C24?style=for-the-badge&logo=fortinet&logoColor=white" />
+</a>
     <img src="https://img.shields.io/badge/-Yeastar-FFD700?&style=for-the-badge&logo=Yeastar&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-0080DC?&style=for-the-badge&logo=Sophos&logoColor=white" />
 </div>
