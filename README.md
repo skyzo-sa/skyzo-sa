@@ -9,7 +9,7 @@ environments. Passionate about problem-solving, optimizing systems, and advancin
 - 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
 - 🏠 Running a virtualized home lab emulating networking equipment in GNS3.
-- ⚡ Fun fact: Music Producer, Graphics Designer and Label Owner.
+- ⚡ Fun fact: Music Producer and Graphics Designer.
 - 👨🏾‍🍼 Proud father of a strong son.
 
 ## Projects
