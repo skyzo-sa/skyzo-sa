@@ -8,7 +8,7 @@ environments. Passionate about problem-solving, optimizing systems, and advancin
 
 - 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
-- 🏠 Running a virtualized home lab emulating networking equipment in GNS3.
+- 🏠 Running a virtualized home lab emulating networking equipment using GNS3 and EVE-NG.
 - ⚡ Fun fact: Music Producer and Graphics Designer.
 - 👨🏾‍🍼 Proud father of a strong son.
 
