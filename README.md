@@ -4,9 +4,7 @@
 
 ## About Me
 
-An experienced and certified IT Specialist with expertise in network engineering, system administration, and
-cybersecurity. Proficient in network configuration and management, network security and managing Linux & Azure
-environments. Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
+An experienced and certified Network & Cybersecurity Engineer working on helping organizations design their security posture. Proficient in Network Configuration and Management, Network & Endpoint Security, Cloud & Application Security, Automation and managing Linux & Azure cloud environments. Worked with many vendors and technologies ( Cisco, Sophos, Fortinet, PfSense etc. ) Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
 
 - 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
 - 📚  Working towards my **CCNA** certification.
