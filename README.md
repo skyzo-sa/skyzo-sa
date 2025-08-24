@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Thokozane 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Network+Security+Engineer](https://git.io/typing-svg)
 
 ## About Me
 
