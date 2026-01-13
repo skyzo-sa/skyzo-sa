@@ -6,17 +6,19 @@
 
 An experienced and certified Network & Cybersecurity Engineer working on helping organizations design their security posture. Proficient in Network Configuration and Management, Network & Endpoint Security, Cloud & Application Security, Automation and managing Linux & Azure cloud environments. Worked with many vendors and technologies ( Cisco, Sophos, Fortinet, PfSense etc. ) Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
 
-- 🚀 Currently developing skills in **Python (Network Automation), Linux, and DevOps.**
-- 📚  Working towards my **CCNA** certification.
-- 🏠 Running a virtualized home lab emulating networking equipment using GNS3 and EVE-NG.
+- 🌐 Certified Network Engineer "CCNA" holder.
+- 🐧 Certified Cybersecurty Engineer "NSE3" holder.
+- 📚 Working on my CCNP certification.
+- 🐍 Currently developing skills in Python, Linux, DevOps, Ansible, and Network Automation.
+- 💻 Running a bare-metal EVE-NG home lab server emulating, firewalls, routers, and switches.
 - ⚡ Fun fact: Music Producer and Graphics Designer.
+- 📍 Living in the Johannesburg Metropolitan area.
 - 👨🏾‍🍼 Proud father of a strong son.
+
 
 ## Projects
 
 - All my hands-on LAB projects are showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
-
-
 
 ## Certifications
 <div>
