@@ -18,7 +18,7 @@ If you enjoy packets, CLI life, homelabs, and the occasional “why is this not 
 
 ## Projects
 
-- On this GitHub, you’ll find my work, notes, and experiments across (Networking,Virtualization, Cloud, Linux, Automation & Scripting) all my hands-on Lab setups, homelab experiments, and troubleshooting journeys showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
+- On this GitHub, you’ll find my work, notes, and experiments across (Networking, Virtualization, Cloud, Linux, Automation & Scripting) all my hands-on Lab setups, homelab experiments, and troubleshooting journeys showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
 
 ## Certifications
 <div>
