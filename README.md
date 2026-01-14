@@ -24,7 +24,9 @@ If you enjoy packets, CLI life, homelabs, and the occasional “why is this not 
 <div>
 
 <a href="https://www.credly.com/badges/da8dab13-bfb2-46d4-8acc-b4f3986fe118/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/-CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-CC0000?style=for-the-badge&logo=cisco&logoColor=white" />
+
+    #<img src="https://img.shields.io/badge/-CCNA-005073?style=for-the-badge&logo=cisco&logoColor=white" />
     
 <a href="https://learn.microsoft.com/api/credentials/share/en-za/tmpanza/59E21F416DEB0698?sharingId=DFE47EAE441DF46D" target="_blank">
     <img src="https://img.shields.io/badge/-Azure_Fundamentals-008000?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
