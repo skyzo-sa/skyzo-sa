@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Thokozane 👋</h1>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Network+and+Cybersecurity+Engineer" alt="Typing SVG" /></a>
 
 ## About Me
 
-An experienced and certified Network & Cybersecurity Engineer working on helping organizations design their security posture. Proficient in Network Configuration and Management, Network & Endpoint Security, Cloud & Application Security, Automation and managing Linux & Azure cloud environments. Worked with many vendors and technologies ( Cisco, Sophos, Fortinet, PfSense etc. ) Passionate about problem-solving, optimizing systems, and advancing in cloud and network security.
+Hey! Hi there 👋 I’m Thokozane Mpanza — Network Engineer, professional problem‑solver, part‑time network breaker, and full‑time fixer of my own chaos.
+I spend my days configuring networks, spinning up VMs, yelling at Linux (lovingly), Automating using Python and learning from the “features” I accidentally create.
+If you enjoy packets, CLI life, homelabs, and the occasional “why is this not working?”, then welcome to my GitHub. You’re in good company.
 
-- 🌐 Certified Network Engineer "CCNA" holder.
-- 🐧 Certified Cybersecurty Engineer "NSE3" holder.
-- 📚 Working on my CCNP certification.
+- 🌐 Certified Network Engineer (CCNA) holder.
+- 🐧 Certified Cybersecurty Engineer (NSE3) holder.
+- 📚 Working on my NSE 4 and 5 certification.
 - 🐍 Currently developing skills in Python, Linux, DevOps, Ansible, and Network Automation.
 - 💻 Running a bare-metal EVE-NG home lab server emulating, firewalls, routers, and switches.
 - ⚡ Fun fact: Music Producer and Graphics Designer.
@@ -18,7 +18,7 @@ An experienced and certified Network & Cybersecurity Engineer working on helping
 
 ## Projects
 
-- All my hands-on LAB projects are showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
+- On this GitHub, you’ll find my work, notes, and experiments across (Networking,Virtualization, Cloud, Linux, Automation & Scripting) all my hands-on Lab setups, homelab experiments, and troubleshooting journeys showcased as proof and evidence of my expertise here: - [👨🏾‍💻 PROJECTS](https://github.com/skyzo-sa/ePortfolio/tree/main)
 
 ## Certifications
 <div>
