@@ -3,13 +3,12 @@
 ## About Me
 
 Hi there 👋 I’m Thokozane Mpanza — Network Engineer, professional problem‑solver, part‑time network breaker, and full‑time fixer of my own chaos.
-I spend my days configuring networks, spinning up VMs, yelling at Linux (lovingly), Automating using Python and learning from the “features” I accidentally create.
-If you enjoy packets, CLI life, homelabs, and the occasional “why is this not working?”, then welcome to my GitHub. You’re in good company.
+I spend my days configuring networks, spinning up VMs, yelling at Linux (lovingly), automating using Python and learning from the “features” I accidentally create.
+If you enjoy packets, CLI life, homelabs, code and the occasional “why is this not working?”, then welcome to my GitHub. You’re in good company.
 
-- 🌐 Certified Network Engineer (CCNA) holder.
-- 🐧 Certified Cybersecurty Engineer (NSE3) holder.
-- 📚 Working on my NSE 4 and 5 certification.
-- 🐍 Currently developing skills in Python, Linux, DevOps, Ansible, and Network Automation.
+- 🌐 Certified Network Engineer (CCNA)
+- 📚 Working on my CCNP certification.
+- 🐍 Currently developing skills in (Python, Linux, NetDevOps, AI, Ethical Hacking & Cybersecurity).
 - 💻 Running a bare-metal EVE-NG home lab server emulating, firewalls, routers, and switches.
 - ⚡ Fun fact: Music Producer and Graphics Designer.
 - 📍 Living in the Johannesburg Metropolitan area.
