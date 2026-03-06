@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=NetDevOps+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Network Security+Engineer" alt="Typing SVG" /></a>
 
 ## About Me
 
-Hi there 👋 I’m Thokozane Mpanza — NetDevOps Engineer, professional problem‑solver, part‑time network breaker, and full‑time fixer of my own chaos.
+Hi there 👋 I’m Thokozane Mpanza — Network Security Engineer, professional problem‑solver, part‑time network breaker, and full‑time fixer of my own chaos.
 I spend my days configuring networks, spinning up VMs, yelling at Linux (lovingly), automating using Python and learning from the “features” I accidentally create.
 If you enjoy packets, CLI life, homelabs, code and the occasional “why is this not working?”, then welcome to my GitHub. You’re in good company.
 
