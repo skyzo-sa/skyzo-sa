@@ -55,7 +55,7 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 ## 🏅 Certifications
 
 <div>
-<a href="https://www.credly.com/badges/da8dab13-bfb2-46d4-8acc-b4f3986fe118/public_url">
+<a href='https://www.credly.com/badges/da8dab13-bfb2-46d4-8acc-b4f3986fe118/public_url" target="_blank">
 <img src="https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco" />
 </a>
 
