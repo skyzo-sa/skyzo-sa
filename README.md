@@ -47,12 +47,6 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 
 ---
 
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyzo-sa&layout=compact&theme=tokyonight)
-
----
-
 ## 🧪 Featured Projects
 
 👉 [👨🏾‍💻 View My Portfolio](https://github.com/skyzo-sa/ePortfolio/tree/main)
@@ -84,12 +78,6 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 <img src="https://img.shields.io/badge/FortiGate-Fortinet-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sophos-Firewall-blue?style=for-the-badge" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/skyzo-sa/skyzo-sa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
