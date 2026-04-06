@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there 👋 I’m **Thokozane Mpanza** — Network Security Engineer, professional problem-solver, part-time network breaker, and full-time fixer of my own chaos.
+Hi there 👋 I’m **Thokozane Mpanza** — a professional problem-solver, part-time network breaker, and full-time fixer of my own chaos.
 
 I spend my days configuring networks, spinning up VMs, yelling at Linux (lovingly), automating using Python, and learning from the “features” I accidentally create.
 
