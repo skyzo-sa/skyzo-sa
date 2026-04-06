@@ -17,8 +17,7 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 - 🌐 CCNA Certified Network Engineer  
 - 📚 Currently working toward **CCNP**  
 - 🐍 Learning: Python, NetDevOps, AI, Ethical Hacking  
-- 💻 Running a bare-metal EVE-NG lab (routers, firewalls, switches)  
-- ⚡ Music Producer & Graphics Designer  
+- 💻 Running a bare-metal EVE-NG lab (routers, firewalls, switches)
 - 📍 Johannesburg, South Africa  
 - 👨🏾‍🍼 Proud father  
 
@@ -63,13 +62,6 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 </div>
 
 ---
-
-## 🔥 Streak
-
-![Streak](https://streak-stats.demolab.com/?user=skyzo-sa&theme=tokyonight)
-
----
-
 ## 🧪 Featured Projects
 
 👉 [👨🏾‍💻 View My Portfolio](https://github.com/skyzo-sa/ePortfolio/tree/main)
@@ -78,6 +70,12 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 - 🔹 FortiGate Firewall Labs (HA, SD-WAN)
 - 🔹 Azure Cloud Labs (VPN, WAF, Monitoring)
 - 🔹 Python Automation (Netmiko scripts coming soon)
+
+
+---
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com/?user=skyzo-sa&theme=tokyonight)
 
 ---
 ## 🧰 Tech Stack
