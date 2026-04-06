@@ -18,6 +18,7 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 - 📚 Currently working toward **CCNP**  
 - 🐍 Learning: Python, NetDevOps, AI, Ethical Hacking  
 - 💻 Running a bare-metal EVE-NG lab (routers, firewalls, switches)
+- ⚡ Fun Fact: I don’t just study tech — I **build, break, and automate it** 🔥
 - 📍 Johannesburg, South Africa  
 - 👨🏾‍🍼 Proud father  
 
@@ -98,7 +99,3 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 - [🐦 Twitter](https://x.com/skyzo_sa)
 
 ---
-
-## ⚡ Fun Fact
-
-I don’t just study tech — I **build, break, and automate it** 🔥
