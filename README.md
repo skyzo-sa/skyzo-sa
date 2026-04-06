@@ -24,34 +24,6 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 
 ---
 
-## 🧰 Tech Stack
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-![Fortinet](https://img.shields.io/badge/FortiGate-Firewall-red?style=for-the-badge)
-![Sophos](https://img.shields.io/badge/Sophos-Security-0080DC?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
-![Linux](https://img.shields.io/badge/Linux-Admin-black?style=for-the-badge&logo=linux)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure)
-
----
-
-## 🔥 Streak
-
-![Streak](https://streak-stats.demolab.com/?user=skyzo-sa&theme=tokyonight)
-
----
-
-## 🧪 Featured Projects
-
-👉 [👨🏾‍💻 View My Portfolio](https://github.com/skyzo-sa/ePortfolio/tree/main)
-
-- 🔹 CCNA Labs (VLANs, Routing, Switching)
-- 🔹 FortiGate Firewall Labs (HA, SD-WAN)
-- 🔹 Azure Cloud Labs (VPN, WAF, Monitoring)
-- 🔹 Python Automation (Netmiko scripts coming soon)
-
----
-
 ## 🏅 Certifications
 
 <div>
@@ -89,6 +61,34 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 </a>
 
 </div>
+
+---
+
+## 🔥 Streak
+
+![Streak](https://streak-stats.demolab.com/?user=skyzo-sa&theme=tokyonight)
+
+---
+
+## 🧪 Featured Projects
+
+👉 [👨🏾‍💻 View My Portfolio](https://github.com/skyzo-sa/ePortfolio/tree/main)
+
+- 🔹 CCNA Labs (VLANs, Routing, Switching)
+- 🔹 FortiGate Firewall Labs (HA, SD-WAN)
+- 🔹 Azure Cloud Labs (VPN, WAF, Monitoring)
+- 🔹 Python Automation (Netmiko scripts coming soon)
+
+---
+## 🧰 Tech Stack
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+![Fortinet](https://img.shields.io/badge/FortiGate-Firewall-red?style=for-the-badge)
+![Sophos](https://img.shields.io/badge/Sophos-Security-0080DC?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-Admin-black?style=for-the-badge&logo=linux)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure)
+
 ---
 
 ## 🤝 Connect With Me
