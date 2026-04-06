@@ -95,4 +95,3 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 - <a href="https://www.linkedin.com/in/tempanza/">
   <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
----
