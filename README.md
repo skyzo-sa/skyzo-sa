@@ -63,6 +63,45 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 </div>
 
 ---
+I am an aspiring **Network + Cloud Automation Engineer** with hands-on experience in:
+
+- Cisco Networking (CCNA)
+- Firewall Administration (FortiGate, Sophos)
+- Linux System Administration
+- Python for Network Automation
+- Microsoft Azure Cloud
+
+I focus on **building real-world labs** to simulate enterprise environments and strengthen my practical skills.
+
+---
+
+## 🧠 Skills
+
+### 🌐 Networking
+- VLANs, Inter-VLAN Routing
+- OSPF, Static Routing
+- NAT, DHCP, DNS
+- VPNs (Site-to-Site)
+
+### 🔐 Security
+- FortiGate Firewall Configuration
+- WAF (Azure Front Door)
+- Network Hardening
+- SIEM (Azure Sentinel)
+
+### ☁️ Cloud (Azure)
+- Virtual Machines & Networking
+- NSGs & Security Policies
+- Azure Monitor & Logging
+- Backup & Disaster Recovery
+
+### 🐍 Automation
+- Python (Netmiko, Paramiko)
+- Bash Scripting
+- Network Automation Scripts
+
+---
+
 ## 🧪 Featured Projects
 
 👉 [👨🏾‍💻 View My Portfolio](https://github.com/skyzo-sa/ePortfolio/tree/main)
