@@ -35,12 +35,6 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=skyzo-sa&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=skyzo-sa&theme=tokyonight)
