@@ -14,8 +14,8 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 
 ---
 
-- 🌐 CCNA Certified Network Engineer  
-- 📚 Currently working toward **CCNP**  
+- 🌐 Cisco Certified Network Associate (CCNA)
+- 📚 Cisco Certified Network Professional **(CCNP)** **In-Progress**  
 - 🐍 Learning: Python, NetDevOps, AI, Ethical Hacking  
 - 💻 Running a bare-metal EVE-NG lab (routers, firewalls, switches)
 - ⚡ Fun Fact: I don’t just study tech — I **build, break, and automate it** 🔥
