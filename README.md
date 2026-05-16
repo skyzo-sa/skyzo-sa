@@ -63,6 +63,16 @@ If you enjoy packets, CLI life, homelabs, code and the occasional *“why is thi
 </div>
 
 ---
+## 🧪 Featured Projects
+
+👉 [👨🏾‍💻 Click here to View My Projects](https://github.com/skyzo-sa/ePortfolio/tree/main)
+
+- 🔹 CCNA Labs (VLANs, Routing, Switching)
+- 🔹 FortiGate Firewall Labs (HA, SD-WAN)
+- 🔹 Azure Cloud Labs (VPN, WAF, Monitoring)
+- 🔹 Python Automation (Netmiko scripts coming soon)
+
+---
 I am an aspiring **Network + Cloud Automation Engineer** with hands-on experience in:
 
 - Cisco Networking (CCNA)
@@ -99,18 +109,6 @@ I focus on **building real-world labs** to simulate enterprise environments and 
 - Python (Netmiko, Paramiko)
 - Bash Scripting
 - Network Automation Scripts
-
----
-
-## 🧪 Featured Projects
-
-👉 [👨🏾‍💻 View My Portfolio](https://github.com/skyzo-sa/ePortfolio/tree/main)
-
-- 🔹 CCNA Labs (VLANs, Routing, Switching)
-- 🔹 FortiGate Firewall Labs (HA, SD-WAN)
-- 🔹 Azure Cloud Labs (VPN, WAF, Monitoring)
-- 🔹 Python Automation (Netmiko scripts coming soon)
-
 
 ---
 ## 🔥 Streak
